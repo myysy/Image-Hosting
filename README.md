@@ -1,2 +1,2 @@
-# Image-Hosting
+# ImageHosting
 My image hosting web site
